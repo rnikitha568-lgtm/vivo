@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Music Synth",
+  "description": "An immersive arcade experience combining a neon snake game with a built-in synth music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
